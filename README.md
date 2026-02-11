@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# kushal05.github.io
 
-You can use the [editor on GitHub](https://github.com/kushal05/mypage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Personal portfolio website for **Koti Kushal Ch** — Full Stack Architect specializing in MEAN/MERN stack and DevOps.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About
 
-### Markdown
+A single-page portfolio showcasing 5+ years of experience in engineering enterprise solutions. The site includes sections for skills, work experience, featured projects, and contact information.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Tech Stack
 
-```markdown
-Syntax highlighted code block
+- HTML5, CSS3, vanilla JavaScript
+- Responsive design with CSS Grid and Flexbox
+- Dark theme with glassmorphism and neon accent effects
+- Google Fonts (Inter, Space Grotesk)
+- Font Awesome 6.4.0
+- Hosted on GitHub Pages
 
-# Header 1
-## Header 2
-### Header 3
+## Project Structure
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+├── index.html       # Main portfolio page
+├── _config.yml      # Jekyll theme configuration
+├── css/
+│   └── style.css    # Legacy stylesheet
+└── README.md
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Running Locally
 
-### Jekyll Themes
+Open `index.html` in a browser, or serve with Jekyll:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kushal05/mypage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+```bash
+bundle exec jekyll serve
+```
 
-### Support or Contact
+## Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Email: kotikushal05@gmail.com
+- GitHub: [kushal05](https://github.com/kushal05)
+- LinkedIn: [kushal05](https://linkedin.com/in/kushal05)
